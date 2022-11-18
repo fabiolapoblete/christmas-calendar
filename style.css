@@ -25,13 +25,17 @@ body {
 
 .calendar__header {
     font-size: 2.8rem;
+    text-align: center;   /* För att få texten centrerad i alla lägen */
     text-transform: uppercase;
 }
 
 .calendar__days {
     color: white;
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    /* display: grid;
+    grid-template-columns: repeat(6, 1fr); */
+    display: flex; /* Mer responsiv, blev för stor på min lilla skärm hehe */
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 2rem;
     font-size: 5rem;
 }
@@ -53,3 +57,29 @@ body {
     background-repeat: no-repeat;
     color: transparent;
 }
+
+
+/* ---------------------- ÖPPNA LUCKOR ---------------------- */
+
+/* Sätt klassen opened i HTML:en för din lucka för att den ska förbli öppen, 
+klistra sedan in din url för gif eller bild i din luckas givna id nedan. Ho ho ho! */
+
+.opened {
+    background-color: transparent !important; 
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: transparent;
+}
+
+#one    {  background-image: /* klipp in din url här */    ; }
+#two    {  background-image: /* klipp in din url här */    ; }
+#three  {  background-image: /* klipp in din url här */    ; }
+#four   {  background-image: /* klipp in din url här */    ; }
+#five   {  background-image: /* klipp in din url här */    ; }
+#six    {  background-image: /* klipp in din url här */    ; }
+#seven  {  background-image: /* klipp in din url här */    ; }
+#eight  {  background-image: /* klipp in din url här */    ; }
+#nine   {  background-image: /* klipp in din url här */    ; }
+#ten    {  background-image: /* klipp in din url här */    ; }
+/* .... fyll på här :) .... */
