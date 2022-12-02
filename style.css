@@ -53,7 +53,8 @@ body {
 
 .calendar__today:hover {
     background-color: transparent;
-    background-image: url("https://media.giphy.com/media/jlR2mOs4ZHh7KE6Ecw/giphy.gif");
+    background-image: url("https://media.giphy.com/media/9w475hDWEPVlu/giphy.gif"); 
+    /*klipp ut denna url och flytta ner till rätt id längre ner, lägg in din egen istället.*/
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -63,8 +64,9 @@ body {
 
 /* ---------------------- ÖPPNA LUCKOR ---------------------- */
 
-/* Sätt klassen opened i HTML:en för din lucka för att den ska förbli öppen, 
-klistra sedan in din url för gif eller bild i din luckas givna id nedan. Ho ho ho! */
+/* Sätt klassen opened i HTML:en för en lucka för att den ska förbli öppen, 
+flytta ner gårdagens url till rätt id, klistra in din url för gif eller bild 
+i dagens lucka här ovan. Ho ho ho! */
 
 .opened {
     background-color: transparent !important; 
@@ -74,14 +76,14 @@ klistra sedan in din url för gif eller bild i din luckas givna id nedan. Ho ho 
     color: transparent;
 }
 
-#one    {  background-image: /* klipp in din url här */    ; }
-#two    {  background-image: /* klipp in din url här */    ; }
-#three  {  background-image: /* klipp in din url här */    ; }
-#four   {  background-image: /* klipp in din url här */    ; }
-#five   {  background-image: /* klipp in din url här */    ; }
-#six    {  background-image: /* klipp in din url här */    ; }
-#seven  {  background-image: /* klipp in din url här */    ; }
-#eight  {  background-image: /* klipp in din url här */    ; }
-#nine   {  background-image: /* klipp in din url här */    ; }
-#ten    {  background-image: /* klipp in din url här */    ; }
+#one    {  background-image: url("https://media.giphy.com/media/jlR2mOs4ZHh7KE6Ecw/giphy.gif")  ; }
+#two    {  background-image: /* klipp in föregående dags url här */    ;}
+#three  {  background-image: /* klipp in föregående dags url här */    ; }
+#four   {  background-image: /* klipp in föregående dags url här */    ; }
+#five   {  background-image: /* klipp in föregående dags url här */    ; }
+#six    {  background-image: /* klipp in föregående dags url här */    ; }
+#seven  {  background-image: /* klipp in föregående dags url här */    ; }
+#eight  {  background-image: /* klipp in föregående dags url här */    ; }
+#nine   {  background-image: /* klipp in föregående dags url här */    ; }
+#ten    {  background-image: /* klipp in föregående dags url här */     ; }
 /* .... fyll på här :) .... */
