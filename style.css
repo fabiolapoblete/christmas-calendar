@@ -53,7 +53,7 @@ body {
 
 .calendar__today:hover {
     background-color: transparent;
-    background-image: url("https://media.giphy.com/media/9w475hDWEPVlu/giphy.gif"); 
+    background-image: url("https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"); 
     /*klipp ut denna url och flytta ner till rätt id längre ner, lägg in din egen istället.*/
     background-size: contain;
     background-position: center;
@@ -77,7 +77,7 @@ i dagens lucka här ovan. Ho ho ho! */
 }
 
 #one    {  background-image: url("https://media.giphy.com/media/jlR2mOs4ZHh7KE6Ecw/giphy.gif")  ; }
-#two    {  background-image: /* klipp in föregående dags url här */    ;}
+#two    {  background-image: url("https://media.giphy.com/media/9w475hDWEPVlu/giphy.gif");}
 #three  {  background-image: /* klipp in föregående dags url här */    ; }
 #four   {  background-image: /* klipp in föregående dags url här */    ; }
 #five   {  background-image: /* klipp in föregående dags url här */    ; }
