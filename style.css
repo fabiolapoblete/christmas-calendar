@@ -76,12 +76,12 @@ i dagens lucka här ovan. Ho ho ho! */
     color: transparent;
 }
 
-#one    {  background-image: url("https://media.giphy.com/media/jlR2mOs4ZHh7KE6Ecw/giphy.gif")  ; }
-#two    {  background-image: url("https://media.giphy.com/media/9w475hDWEPVlu/giphy.gif");}
-#three  {  background-image: url("https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif")/* klipp in föregående dags url här */    ; }
-#four   {  background-image: url("https://media.giphy.com/media/QYLnzu4C3mT8rJ6hRL/giphy.gif");/* klipp in föregående dags url här */    ; }
-#five   {  background-image: url("https://media.giphy.com/media/imbTfdz5TWSsw/giphy.gif");/* klipp in föregående dags url här */    ; }
-#six    {  background-image: url("https://media.giphy.com/media/mCsACOfmIOvZJ1iNA6/giphy.gif");/* klipp in föregående dags url här */    ; }
+#one    {  background-image: url("https://media.giphy.com/media/jlR2mOs4ZHh7KE6Ecw/giphy.gif"); }
+#two    {  background-image: url("https://media.giphy.com/media/9w475hDWEPVlu/giphy.gif"); }
+#three  {  background-image: url("https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif"); }
+#four   {  background-image: url("https://media.giphy.com/media/QYLnzu4C3mT8rJ6hRL/giphy.gif"); }
+#five   {  background-image: url("https://media.giphy.com/media/imbTfdz5TWSsw/giphy.gif"); }
+#six    {  background-image: url("https://media.giphy.com/media/mCsACOfmIOvZJ1iNA6/giphy.gif"); }
 #seven  {  background-image: /* klipp in föregående dags url här */    ; }
 #eight  {  background-image: /* klipp in föregående dags url här */    ; }
 #nine   {  background-image: /* klipp in föregående dags url här */    ; }
