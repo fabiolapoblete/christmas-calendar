@@ -53,7 +53,7 @@ body {
 
 .calendar__today:hover {
     background-color: transparent;
-    background-image: url("https://media.giphy.com/media/GOZhFFqrcDDY9q8IHl/giphy.gif"); 
+    background-image: url(""); 
     /*klipp ut denna url och flytta ner till rätt id längre ner, lägg in din egen istället.*/
     background-size: contain;
     background-position: center;
@@ -87,4 +87,6 @@ i dagens lucka här ovan. Ho ho ho! */
 #nine   {  background-image: url("https://media.giphy.com/media/26gR0BuSZabqSyNig/giphy.gif"); }
 #ten    {  background-image: url("https://media.giphy.com/media/s4Bi420mMDRBK/giphy.gif"); }
 #eleven {  background-image: url("https://media.giphy.com/media/IeRcJQgDFG5essVj9n/giphy.gif");}
+#twelve {  background-image: url(); }
+#thirteen {background-image: url(); }
 /* .... fyll på här :) .... */
