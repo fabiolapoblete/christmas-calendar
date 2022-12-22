@@ -53,7 +53,7 @@ body {
 
 .calendar__today:hover {
     background-color: transparent;
-    background-image: url("https://media.giphy.com/media/LBAv3HJDl2WwU/giphy.gif"); 
+    background-image: url("https://media.giphy.com/media/idjWufbUEEo5dqysEy/giphy.gif"); 
     /*klipp ut denna url och flytta ner till rätt id längre ner, lägg in din egen istället.*/
     background-size: contain;
     background-position: center;
@@ -100,8 +100,8 @@ i dagens lucka här ovan. Ho ho ho! */
 #eighteen {background-image: url("https://media.giphy.com/media/HwAEfQsVUGNKliLN53/giphy.gif");}
 #nineteen {background-image: url("https://media.giphy.com/media/XwRP4JkXOsPII/giphy.gif");}
 #twenty {background-image: url("https://media.giphy.com/media/elrFAUtV7ZOH7TSPhF/giphy.gif");}
-/* #twenty-one {background-image: url("https://media.giphy.com/media/LBAv3HJDl2WwU/giphy.gif");} */
-/* #twenty-two {background-image: url("");} */
-/* #twenty-three {background-image: url("");} */
+#twenty-one {background-image: url("https://media.giphy.com/media/LBAv3HJDl2WwU/giphy.gif");}
+/* #twenty-two {background-image: url("https://media.giphy.com/media/idjWufbUEEo5dqysEy/giphy.gif"");} */
+/* #twenty-three {background-image: url("https://media.giphy.com/media/Ajhi3tsHaGBB6/giphy.gif");} */
 /* #MERRY-CHRISTMAS {background-image: url("");} */
 
